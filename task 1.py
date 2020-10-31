@@ -50,3 +50,36 @@ What is the operator precedence ?
 **
 * , /
 + , -
+
+
+Python Conditions Tasks:
+
+In which cases we will use all ?
+in multiple conditions
+
+
+ What is the differences between all , and ?
+ no differences between all ,and
+
+What is the differences between any , or ?
+or for choise but any to take frome it
+
+If we need all the conditions to be true we will use ?
+ use  if and , all
+
+What is the differences between if , elif ?
+(if) is the main of condition
+(elif)to add many condition
+
+
+What is the differences between elif else  ?
+(elif) to add many condition
+(else) to do the others
+
+
+Can we use more than one elif ?
+yes
+
+
+Can we use more than one else ?
+no
